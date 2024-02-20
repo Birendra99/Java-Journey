@@ -1,0 +1,8 @@
+-A class is blueprints from which individual objects are created.
+-Collections of objects is called Class.
+-An entity that has state and behavior is known as an object.
+-OOPS helps to reduce the bug chunks of code into the small chunks of Code.
+-OOPS stands for Object Oriented Programming System
+-OOPS concepts include Class, Object, Inheritence, Polymorphism, Abstraction, Encapsulations.
+-Attributes in java are variables within the class, also known as the Fields.
+-Attibutes holds the state of the object.

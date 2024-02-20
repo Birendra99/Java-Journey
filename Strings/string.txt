@@ -1,0 +1,10 @@
+String is collection of words or character
+String is non primitive data Type
+String is a single token.
+Concatenation is funtion where we can add two strings.
+We can find the length of Strings with the help of .length();
+charAt(): If we need to find the charcter in a string then we can use charAt.
+comparTo(): It is used to compare the between two strings in Java
+for example: name1.toCompare(name2)==0;
+Strings are immutable we cannot change
+endsWith();
