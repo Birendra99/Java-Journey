@@ -1,0 +1,16 @@
+-Inheritence in java is a mechanisms in which one class inherits the properties of other class.
+Use Cases:
+-It reduce the duplication and reuse the code.
+-Method Overiding (Dynamic Polymorphisms.)
+
+Some Common Terms:
+subclass/child Class (Inheriting the properties of other class)
+superclass/Parent Class (From where Inheriting the properties)
+Inherts means derived.
+Extends: It is a keyword in which we can used to inherits at the time of child class when we declared.
+class Childclass extends parentClass{
+
+}
+- Is-A Relationship
+
+child class can access the parent class but the parent class or super class cannot access to the child.
