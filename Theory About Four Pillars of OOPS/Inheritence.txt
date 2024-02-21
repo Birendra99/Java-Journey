@@ -1,0 +1,8 @@
+-Inheritence is just like a Is a Relationship.
+-Inheriting the data and methods from the parents class.
+- Inheitence is a technique of acquiring the properties of another class having features in common.
+- It is also known as a child-parent relationship, where a child inherits the properties of its parent.
+-This is the reason it is called "is a relationship" where the child is-a type of parent.
+
+Advantage
+-It allows us to increase the reuseability and reduce the duplication of code.

@@ -1,0 +1,15 @@
+-The Binding of Data.
+-For Security.
+
+-Encapsulation is a technique of restrication a user from directly modifiying the data members or variables of a class in order to maintain the integraty of the data.
+
+-It can achieve with the helps of the Access-Modifiers.
+
+Access Modifer:
+-private 
+-public 
+-protected
+-defaults
+
+Advantage
+-This makes sure that the integrity data is not compromised.

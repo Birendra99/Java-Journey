@@ -1,0 +1,11 @@
+Poly means many or multiple
+Morphism means forms.
+-It is a feature that allows you to perform an action in multiple or different ways.
+
+There are two types of Polymorphism:
+-1: Method Overloading -Static Polymorphism (Static Binding)
+
+-2: Method Overloading - Dynamic Polymorphism (Dynamic Binding)
+
+
+Programmers code can be reused via Polymorphism

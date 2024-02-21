@@ -1,0 +1,5 @@
+- There are four Pillars of Object Oriented Programming Language.
+First is Abstraction
+Second is Inheritence 
+Third is Encapsulation 
+Fourth is Polymorphism.

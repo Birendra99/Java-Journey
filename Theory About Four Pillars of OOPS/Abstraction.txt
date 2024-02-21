@@ -1,0 +1,8 @@
+-Abstraction is a technique of providing only the essentials details to the user by hiding the unnecessary or irrelevant details of an entity.
+- Abstraction enables us to provide a simple interface to a user without asking for complex details to perform an action.
+- In simple words, A driver know how to drive but driver doesnot care about how the engine works. Likewise, we can understand.
+    Advantage.
+-This helps in reducing the operational complexity at the user-end.
+
+Abstraction can be achieve through :
+interface and Abstraction
