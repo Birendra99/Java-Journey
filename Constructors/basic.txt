@@ -1,0 +1,7 @@
+-In Java, a constructor is a block of code that is used to intilize an objects.
+-It is called when an instance of the object is created. and memory is allocated for the object. 
+-It is a special type of method which is used to intilize the object.
+-Constructor are of two types:
+-1: Default Constructor 
+-2: Parameterised Constructor
+-When we call using new keywords then we are creating a object of class and the constructor is invoked to intilize.
