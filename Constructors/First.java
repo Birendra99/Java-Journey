@@ -19,6 +19,7 @@ public class First {
     public static void main(String[] args) {
         // In the above Student() is a constructors which appears as a method in the class. 
             Student obj=new Student();
+            Student obj1=new Student(1,"Ram");
 
     }
 }
