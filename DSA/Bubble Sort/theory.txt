@@ -1,0 +1,4 @@
+Bubble Sort is majorily Used where Complexity Doesnot Matter and short and simple code is prefereed.
+
+It has O(n) time Complexity for the best case in bubble sort.
+It has O(n^2) time Complexity for the average case and worst case.
