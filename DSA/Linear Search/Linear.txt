@@ -1,0 +1,6 @@
+-Linear Search is also called a sequential Search.
+-It is widely used to search an element from the unordered list, i.e the list in which the items are not sorted. 
+-The worst case time complexity of linear search is O(n).
+It is the simplest searching algorithm.
+-The best case time complexity of linear search is O(1).When the target element is found at first index.
+Space complexity is also O(1)
