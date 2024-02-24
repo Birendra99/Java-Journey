@@ -1,0 +1,9 @@
+Insertion sort is sorting algorithm that place an unsorted element at its suitable place in each iteration.
+It is suitable for the small data.
+It is not suitable for the big data.
+The time complexity of worst case and average case of Insertion Sort is O(n^2).
+Best Case Time Complexity: O(n)
+Advantages:
+Simple Implementation
+Efficient For Small Data.
+Adaptative.
