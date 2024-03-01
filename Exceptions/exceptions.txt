@@ -1,0 +1,21 @@
+If you don't know the what type of Exceptions will come then used Exception e which is like super class or father of all Exception.
+Types of Exceptions:
+
+1-IOEXCEPTIONS
+2-SQLEXCEPTIONS
+3-CLASSNOTFOUNDEXCEPTIONS
+The above three are called the checked Exceptions.
+
+4-RUNTIME Exceptions
+Runtime Exceptions are :
+a. Arithmetic Exceptions
+b. NullPointerExceptions
+c. NumberFormatExceptions
+d. IndexOutOfBoundsExceptions: ArrayIndexOutOfBoundExceptions and StringIndexOutOfBoundExceptions.
+
+Keywords to remember for Exceptions:
+Try
+Catch
+Finally
+Throw
+Throws
