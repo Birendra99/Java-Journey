@@ -1,0 +1,5 @@
+Super Keywords is like a secret passage that connects a subclass to its parents class. It allows the subclass to access and use things from the parent class.
+Points To Remeber:
+Calling Parent Class Constructors.
+Invoking Parent Class Method
+Accessing parent class fields
