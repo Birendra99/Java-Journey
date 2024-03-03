@@ -1,0 +1,7 @@
+Method overloading is used to enhance the readability of the program.
+-It occurs within a single class.
+-The return type can be the same or Different but the parameters must be different.
+-It exemplifies compile-time polymorphism.
+- Same Name of Functions and Methods
+- Different Number of Arguments
+- Same number of Arguments but Different datatypes.

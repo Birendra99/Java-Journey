@@ -1,0 +1,5 @@
+Method overriding is used to provide a specific implementation of a method that is already defined in the superclass.
+- It occurs between two classes that have an IS-A (inheritence) realationship.
+-Overriddens methods have the same Arguments or parameters list as the super class method has.
+-The return type must be the same.
+-It demonstrate the run-time polymorphism.
