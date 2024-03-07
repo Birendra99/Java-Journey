@@ -1,0 +1,7 @@
+Var keyword is a powerful addition that was introduced in Java 10. 
+The var keyword allows you to declare a variable without explicitly specifying its type.
+- You must explicitly initialize a variable declared with var.
+-You cannot use var with lambda expressions or method parameters. for eg: var obj = (a, b) -> (a + b);
+- It’s not allowed for method return types.
+-Cannot use var for instance variables or global variables.
+-It’s also not allowed as a generic type. Eg: var<var> list = new ArrayList<>();
