@@ -1,0 +1,60 @@
+Interface is a blue print of a class which is used to specify the class what must to do but not how.
+we used interface keyword when we are working with the interface and also implements keyword when we inherits the interface to sub class.
+Like we are declaring the methods (like abstract methods) in the interface but we cannot declare and define the methods like in abstract which is concrete methods.
+In Interface, only having the abstract type methods not the concrete type methods.
+Concrete methods are those methods which is both we define and declaring in the class as the normal way to define the methods.
+
+In interface, by defaults the java puts public abstract before the methods name and also by defaults the fields are also public static. 
+interface A{
+     In interface, every variables or fileds, it is a public static final by default.
+     public static final int a=10;
+     we can also declare like int a=20;
+
+    abstract methods();
+    by default: public abstract method. // here by default is not a keyword it just a words. and like if we replace the public with the default keyword and the protected keyword then it will show error at compile time.
+    public static final int a =10;
+    public void show();
+
+    // Here we can used the defautl and static keyword in the interface but only when we are going to declare and define the methods inside the interface.
+      default void show(){
+        like this possible 
+      }
+      static void run(){
+
+      }
+     
+}
+class B implements A{
+    we need to define and declare every methods and fileds of the interface class.
+    otherwise it will show error.
+    by default void show can be public but it is important to put before the methods.
+    otherwise it will show the error in compile time .
+    It is mendatory to put public before the methods in subclass when we inherits the interface.
+    We know interface methods are public static by default.
+    public void show(){
+        System.out.println("Showing);
+    }
+
+}
+In interface, we always need to remember to put the public abstract before the mthods name.
+Main Points: We cannot create a object of a interface same as a abstraction.
+
+In java 8th version, we can also declare the concrete methods but it must be default concrete method.
+In java 9th version, java also declare that the now we can also create the private methods in interface.
+Advantages of interface:
+-It is used to achieve abstraction.
+-It supports multiple inheritence.
+-It can be used to reduce the loose coupling.
+Loose coupling means when we define methods in a class and updating it then it cannot affect the other components and also not fully depend eachother.When we change in one it doesnot affect other.
+
+
+Keypoints:
+Interface is a mechanisms to achieve abstraction in java.
+Interface is similar to the abstract class but having all the methods of abstract types i.e it cannot have a method body.
+Since java8, we can have the default and static methods in an interface.
+Since java 9, we can have private methods in an interface.
+
+Why use java interface?
+1). It is used to achieve abstraction.
+2). By interface, we can supports the funcationality of multiple inheritence.
+3). It can be used to achieve loose coupling.
