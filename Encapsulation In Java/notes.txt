@@ -1,0 +1,13 @@
+Encapsulation means hiding the data from the users and cannot give direct access to the users.
+But we can access the data with the help of setter and getter methods.
+It involves bundling related data (variables) and methods together within a single unit, which we call a class.
+Key Points:
+1) Data Hiding:
+- It allows us to hide the implementation details of a class from outside access.
+- We achieve the Encapsulation by declaring the instance variables(fields) of a class as a private.
+-Public Interface
+Benefits:
+-Cleaner Code
+-Data Security
+- Controlled access
+-Java Bean Examples.
