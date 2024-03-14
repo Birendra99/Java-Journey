@@ -1,0 +1,7 @@
+In Java, access modifiers determine the visibility or scope of various elements within the code. They control who can access classes, interfaces, fields, constructors, and methods.
+There are four types of access modifiers in java:
+i) Public (can be accessed from everywhere if it is Public.)
+ii) Private (Only used inside the class of own.)
+iii)Protected(In case of Protected we can used in different package and subclasses but cannot in different package with the non subclasses).
+
+iv)Default (We cannot used default in different package and subclasses.)(Can be used in same package and non subclasses.)
