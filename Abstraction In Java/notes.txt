@@ -1,0 +1,16 @@
+-Data Abstraction is the process of hiding certain details and showing only essentials information to the user.
+-It can be achieved with either abstract classess or interfaces.
+
+-Abstraction is the process of hiding complex implementation details of a program while exposing only the essential API required for using that implementation.
+-It simplifies the interaction with a system by presenting a clean and simplified interface to the user, concealing the underlying complexity.
+
+Real-Life Example:
+-Consider a television remote control. It provides a straightforward interface with buttons and symbols, allowing users to perform actions like changing channels or adjusting volume.
+-Users don’t need to understand the intricate technical details of how the TV functions; they interact with the remote control in an abstract manner.
+
+
+-In Java, abstraction is achieved through interfaces and abstract classes.
+-Interfaces allow us to achieve 100% abstraction by defining method signatures without implementation details.
+-Abstract classes are declared using the abstract keyword and can have both abstract methods (without implementation) and concrete methods.
+-An abstract class may or may not have all abstract methods.
+-Abstract methods must be redefined (overridden) in subclasses, making overriding compulsory or even making the subclass itself abstract.
